@@ -9,7 +9,7 @@
         "ms-python.python",
         "ms-toolsai.jupyter",
         "charliermarsh.ruff"
-      ],
+      ]
     }
   },
   "forwardPorts": [8000],
